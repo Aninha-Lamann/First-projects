@@ -17,9 +17,9 @@
     <div>
       <p style="font-size: 25px"></p>
       <p>
-        R: Maria Aparecida dos Reis Neves, 75, Bloco 29A apt 33A, Campinas, SP
+        R:Rua das Amoras, 657 - Campinas-SP
         <br />
-        Telefone: <em><a href="http://wa.me/5519983186872">19983186872</a></em>
+        Telefone: <em><a href="http://wa.me/5519983186872">19xxxxxxxxx</a></em>
         <br />
         Email: a.lamann@hotmail.com
       </p>
