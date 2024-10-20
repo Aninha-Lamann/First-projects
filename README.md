@@ -43,8 +43,7 @@
         <li>Curso de Informática, Microlins, 2023</li>
         <li>
           Cursando Tecnico em Desenvolvimentode Sistemas, ETEC Bento Quirino,
-          2024
-        </li>
+          2025        </li>
       </ul>
     </div>
     <div>
