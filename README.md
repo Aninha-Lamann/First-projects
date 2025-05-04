@@ -1,10 +1,10 @@
 # 📄 Currículo Online - Meu Primeiro HTML  
 
-**Data de Criação:** Eu sinceramente não me lembro  
+**Data de Criação:** 13 de março de 2024
 
 ## 📝 Descrição  
-Este é o meu **primeiro projeto HTML**, um currículo online simples. 
-Olhando ele agora, depois de quase um ano e meio de curso, chegeui a conclusão de que eu não sabia o que estava fazendo quando coloquei **Web Designer** como objetivo profissional. Depois primeira atividade na materia de Designer System, cheguei a conclusão que nunca mais gostaria de ter que fazer um designer system, mas como a vida não é um mar de rosas, até hoje tenho que fazer alguns designer e sempre é uma tortura &#x1F602;
+Este foi o meu **primeiro projeto HTML**, um currículo online simples. 
+Olhando ele agora, depois de quase um ano e meio de curso, cheguei a conclusão de que eu não sabia o que estava fazendo quando coloquei **Web Designer** como objetivo profissional. Depois primeira atividade na materia de Design System, cheguei a conclusão que nunca mais gostaria de ter que fazer um Design System, mas como a vida não é um mar de rosas, até hoje tenho que fazer alguns designer e sempre é uma tortura &#x1F602;
 
 ### 🎨 Características  
 ✔ **Layout limpo** e organizado  
@@ -27,12 +27,6 @@ Olhando ele agora, depois de quase um ano e meio de curso, chegeui a conclusão 
 - Cores de fundo suaves  
 - Fontes sans-serif legíveis  
 - Destaques em azul para os títulos  
-
-## 📌 Pontos de Melhoria Futura  
-- [ ] Adicionar CSS externo  
-- [ ] Tornar responsivo  
-- [ ] Incluir ícones  
-- [ ] Adicionar dark mode  
 
 ## 💡 Tecnologias Utilizadas  
 - HTML5 puro  
