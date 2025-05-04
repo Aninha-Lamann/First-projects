@@ -1,68 +1,39 @@
-# Primeiro HTML
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  </head>
+# 📄 Currículo Online - Meu Primeiro HTML  
 
-  <body
-    style="background-color: rgb(236, 236, 236)"
-    style="color: rgb(224, 221, 221)"
-    style="font-family: Verdana, Geneva, Tahoma, sans-serif"
-  >
-    <div>
-      <h1>Ana Carolina de Oliveira Lamann</h1>
-    </div>
-    <div>
-      <p style="font-size: 25px"></p>
-      <p>
-        14/07/2006 
-        <br>
-        R:Rua das Amoras, 657 - Campinas-SP
-        <br />
-        Telefone: <em><a href="http://wa.me/5519983186872">19xxxxxxxxx</a></em>
-        <br />
-        Email: a.lamann@hotmail.com
-      </p>
-    </div>
-    <div>
-      <h2 style="background-color: rgb(130, 180, 238)">
-        OBJETIVO PROFISSIONAL
-      </h2>
-      <p>Web Designer</p>
-    </div>
-    <div>
-      <h2 style="background-color: rgb(130, 180, 238)">
-        EXPERIÊNCIA PROFISSIONAL
-      </h2>
-      <p><strong>Primeiro emprego</strong></p>
-    </div>
-    <div>
-      <h2 style="background-color: rgb(130, 180, 238)">FORMAÇÃO ACADÊMICA</h2>
-      <ul>
-        <li>Ensino Médio Completo, 2024</li>
-        <li>Curso de Informática, Microlins, 2023</li>
-        <li>
-          Cursando Tecnico em Desenvolvimentode Sistemas, ETEC Bento Quirino,
-          2025        </li>
-      </ul>
-    </div>
-    <div>
-      <h2 style="background-color: rgb(130, 180, 238)">APERFEIÇOAMENTO</h2>
-      <ul>
-        <li>Informática - Word e Excel</li>
-        <li>Inglês Básico</li>
-      </ul>
-    </div>
-    <div>
-      <h2 style="background-color: rgb(130, 180, 238)">HABILIDADES</h2>
-      <ul>
-        <li>Ética</li>
-        <li>Responsabilidades</li>
-        <li>Proatividade</li>
-        <li>Comunicação</li>
-      </ul>
-    </div>
-  </body>
-</html>
+**Data de Criação:** Eu sinceramente não me lembro  
+
+## 📝 Descrição  
+Este é o meu **primeiro projeto HTML**, um currículo online simples. 
+Olhando ele agora, depois de quase um ano e meio de curso, chegeui a conclusão de que eu não sabia o que estava fazendo quando coloquei **Web Designer** como objetivo profissional. Depois primeira atividade na materia de Designer System, cheguei a conclusão que nunca mais gostaria de ter que fazer um designer system, mas como a vida não é um mar de rosas, até hoje tenho que fazer alguns designer e sempre é uma tortura &#x1F602;
+
+### 🎨 Características  
+✔ **Layout limpo** e organizado  
+✔ **Seções básicas** de um currículo profissional  
+✔ **Links interativos** (WhatsApp)  
+✔ **Estilos inline** para formatação básica  
+
+## 🚀 Como Visualizar o Projeto  
+
+### Método 1: Abrir Direto no Navegador  
+1. Baixe o arquivo `curriculo.html`  
+2. Clique duas vezes para abrir no navegador  
+
+### Método 2: Usando Live Server (VS Code)  
+1. Instale a extensão "Live Server"  
+2. Clique com o botão direito no arquivo e selecione "Open with Live Server"  
+
+
+## 🎨 Estilização Básica  
+- Cores de fundo suaves  
+- Fontes sans-serif legíveis  
+- Destaques em azul para os títulos  
+
+## 📌 Pontos de Melhoria Futura  
+- [ ] Adicionar CSS externo  
+- [ ] Tornar responsivo  
+- [ ] Incluir ícones  
+- [ ] Adicionar dark mode  
+
+## 💡 Tecnologias Utilizadas  
+- HTML5 puro  
+- Estilos inline básicos  
